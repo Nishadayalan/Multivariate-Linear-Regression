@@ -41,7 +41,7 @@ print('Amount:',regr.predict([[3300,1300]]))
 ## Output:
 
 ### Insert your output
-![Alt text](<Screenshot 2023-12-31 140540.png>)
+![Alt text](<Screenshot 2023-12-31 142424.png>)
 
 
 ## Result
